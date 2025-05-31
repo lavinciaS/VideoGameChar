@@ -44,9 +44,10 @@ java VideoGameCharDriver
 - Hero and villain names
 - Max and remaining health values
 
-## 🧪 Sample Output
-<pe>
-```Welcome to the VideoGameChar class driver
+## Sample Output
+
+```
+Welcome to the VideoGameChar class driver
 Please enter the name of the hero: Link
 You entered: Link
 Please enter the name of the villain: Ganon
@@ -60,8 +61,9 @@ You entered: 75.0
 Please enter Ganon's remaining health: 45
 You entered: 45.0
 Link:75.0 out of 100.0 health or 75.0 %
-Ganon:45.0 out of 120.0 health or 37.5 %```
-</pe>
+Ganon:45.0 out of 120.0 health or 37.5 %
+```
+
 
 
 ---
